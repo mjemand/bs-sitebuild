@@ -92,3 +92,20 @@ i[class^="icon"] {
     color: #A73260;
 }
 
+.picture {
+    background-image: url("/img/bg-cta.jpg");
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .heart {
+      color: red;
+      font-size: 5rem;
+  }
+
+  .modal {
+      color: black;
+  }
