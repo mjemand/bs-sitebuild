@@ -87,7 +87,8 @@
     color: #5E6066;
 }
 
-
-
-
+i[class^="icon"] {
+    font-size: 4rem;
+    color: #A73260;
+}
 
