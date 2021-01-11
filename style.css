@@ -1,0 +1,61 @@
+*{box-sizing: border-box;}
+
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Catamaran&display=swap');
+
+.container-fluid {
+        background-image: url("/img/bg-pattern.png"), linear-gradient(to right, rgb(218,36,49), rgba(122,67,151));
+  }
+
+.navbar-brand {
+    color: #ECC653;
+    font-family: 'Lato', Helvetica, Arial, sans-serif;
+}
+
+.navbar-brand:hover {
+    color: #ffffff
+}
+
+
+.nav-link {
+    color: #E1C1D0;
+    font-family: 'Lato', Helvetica, Arial, sans-serif;
+}
+
+
+.nav-link:hover {
+    color: #ffffff
+}
+
+.newAge {
+    font-family: 'Catamaran', Helvetica, Arial, sans-serif;
+    font-size: 2rem;
+    color: #F6FCFF;
+}
+
+.btn-outline-primary {
+    color: #F6FCFF;
+    border-color: #F6FCFF;
+}
+
+.btn-outline-primary:hover {
+    background-color: #FDCC52;
+}
+
+
+.phone {
+    position: relative;
+    max-width: 300px;;
+}
+
+.screen {
+    position: absolute;
+    top: 57px;
+    left: 30px;
+    max-width: 270px;
+}
+
+.py-5 {
+    position: relative;
+}
