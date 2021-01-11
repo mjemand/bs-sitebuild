@@ -6,7 +6,7 @@
 
 .container-fluid {
         background-image: url("/img/bg-pattern.png"), linear-gradient(to right, rgb(218,36,49), rgba(122,67,151));
-  }
+}
 
 .navbar-brand {
     color: #ECC653;
@@ -17,15 +17,30 @@
     color: #ffffff
 }
 
-
 .nav-link {
     color: #E1C1D0;
     font-family: 'Lato', Helvetica, Arial, sans-serif;
 }
 
-
 .nav-link:hover {
     color: #ffffff
+}
+
+.navbar-toggler {
+    color: #000;
+    background-color: white;
+}
+
+.navbar-collapse {
+    color: #000;
+}
+
+.navbar-toggler-icon {
+    color: #000;
+}
+
+.navbar-nav {
+    color: #000;
 }
 
 .newAge {
@@ -43,7 +58,6 @@
     background-color: #FDCC52;
 }
 
-
 .phone {
     position: relative;
     max-width: 300px;;
@@ -59,3 +73,21 @@
 .py-5 {
     position: relative;
 }
+
+.jumbotron {
+    background: #FDCB4D;
+    font-family: 'Catamaran', Helvetica, Arial, sans-serif;
+}
+
+.unlimited {
+    color: #000;
+}
+
+.checkOut {
+    color: #5E6066;
+}
+
+
+
+
+
