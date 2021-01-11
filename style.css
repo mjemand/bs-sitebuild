@@ -101,11 +101,23 @@ i[class^="icon"] {
     background-size: cover;
   }
 
-  .heart {
-      color: red;
+.heart {
+      color: #d82c2c;
       font-size: 5rem;
   }
 
-  .modal {
-      color: black;
+.modal {
+      color: #000;
   }
+
+footer {
+    color: #7a735f;
+}
+
+footer nav a {
+    color: #7a735f;
+}
+
+footer nav a:hover {
+    color: #fdcc52;
+}
